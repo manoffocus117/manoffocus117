@@ -144,16 +144,16 @@ latest technologies in the development field.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/mdsaifurrahman117" target="blank">
-  <img align="center" src="assets/linkedin.png" alt="mdsaifurrahman117" height="50" width="50" />
+<a href="https://linkedin.com/in/manoffocus117" target="blank">
+  <img align="center" src="assets/linkedin.png" alt="manoffocus117" height="50" width="50" />
 </a>
 
-<a href="https://x.com/saif_on_x" target="blank">
-<img align="center" src="assets/twitter.png" alt="mdsaifurrahman117" height="50" width="50" />
+<a href="https://x.com/manoffocus117" target="blank">
+<img align="center" src="assets/twitter.png" alt="manoffocus117" height="50" width="50" />
 </a>
 
-<a href="https://facebook.com/mdsaifurrahman117" target="blank">
-<img align="center" src="assets/facebook.png" alt="mdsaifurrahman117" height="50" width="50"/>
+<a href="https://facebook.com/manoffocus117" target="blank">
+<img align="center" src="assets/facebook.png" alt="manoffocus117" height="50" width="50"/>
 </a>
 
 </p>
