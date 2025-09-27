@@ -20,7 +20,7 @@ latest technologies in the development field.</p>
 
 <h2 align="left">Technologies that I know : </h2>
 
-  <h3>Languages:</h3>
+<h3>Languages:</h3>
 <p align="center">
 
   <img width="225" src="assets/javascript.png">
@@ -118,7 +118,8 @@ latest technologies in the development field.</p>
 
 <img width="225" style="padding: 0px 10px" src="assets/next-auth.png">
 
-</p>
+<img width="225" style="padding: 0px 10px" src="assets/jwt.png">
+
 
 <h3 align="left">Designing:</h3>
 <p align="center">
@@ -133,12 +134,12 @@ latest technologies in the development field.</p>
 
 <h3>Others Information:</h3>
 <p align="center">
-<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifurrahman117&layout=compact" />
-<img width="320px" src="https://github-readme-stats.vercel.app/api?username=mdsaifurrahman117&show_icons=true&show=prs_merged" />
+<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoffocus117&layout=compact" />
+<img width="320px" src="https://github-readme-stats.vercel.app/api?username=manoffocus117&show_icons=true&show=prs_merged" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=mdsaifurrahman117" />
+<img src="https://streak-stats.demolab.com/?user=manoffocus117" />
 </p>
  
 <h3 align="left">Connect with me:</h3>
