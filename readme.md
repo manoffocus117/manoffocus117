@@ -134,8 +134,8 @@ latest technologies in the development field.</p>
 
 <h3>Others Information:</h3>
 <p align="center">
-<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoffocus117&layout=compact" />
-<img width="320px" src="https://github-readme-stats.vercel.app/api?username=manoffocus117&show_icons=true&show=prs_merged" />
+  <img width="395px" src="https://github-stats-extended.vercel.app/api?username=manoffocus117&show_icons=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manoffocus117&layout=compact" />
 </p>
 
 <p align="center">
