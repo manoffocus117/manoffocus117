@@ -139,7 +139,7 @@ latest technologies in the development field.</p>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=manoffocus117" />
+  <img src="https://streak-stats.demolab.com?user=manoffocus117" />
 </p>
  
 <h3 align="left">Connect with me:</h3>
