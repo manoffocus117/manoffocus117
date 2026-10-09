@@ -1,12 +1,10 @@
 ![banner](banner.gif)
 
-<h1 align="center">Hi, I'm Saifur Rahman</h1>
+<h1 align="center">Hi, I'm Saifur Rahman 👋</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h3 align="center">Building ideas into digital experiences.</h3>
 
-<p align="center" style="font-size: 18px; font-weight: 600;">I'm a frontend web developer. I specialize in 
-creating modern website user interfaces that increase user experience and your business success. 
-In addition to my professional work, I am passionate about self-learning and staying up-to-date with the 
-latest technologies in the development field.</p>
+<p align="center" style="font-size: 18px; font-weight: 600;">I'm a web developer passionate about creating modern, responsive, and interactive web experiences. I enjoy combining clean interfaces, smooth animations, solid functionality, and thoughtful user experiences to bring ideas to life.</p>
 
 - 🔭 I’m currently working as a **frontend developer.**
 
