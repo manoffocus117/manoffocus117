@@ -6,17 +6,17 @@
 
 <p align="center" style="font-size: 18px; font-weight: 600;">I'm a web developer passionate about creating modern, responsive, and interactive web experiences. I enjoy combining clean interfaces, smooth animations, solid functionality, and thoughtful user experiences to bring ideas to life.</p>
 
-- 🔭 I’m currently working as a **frontend developer.**
+<h3>👨‍💻 About Me</h3>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌐 Web developer focused on modern web technologies
+- 🚀 Currently working with React & Next.js
+- 🧩 Exploring both frontend and backend development
+- 📚 Passionate about self-learning and continuous improvement
+- 🛠️ Love experimenting with new technologies and creative ideas
+- 🎯 Currently looking for opportunities to grow, contribute, and gain real-world experience
 
-- 👨‍💻 All of my projects are available at [https://mdsaifurrahman-portfolio.netlify.app/](https://mdsaifurrahman-portfolio.netlify.app/)
 
-- 📄 Know about my experiences [https://mdsaifurrahman-resume.netlify.app/](https://mdsaifurrahman-resume.netlify.app/)
-
-- 📫 Reach me via **saifurrahmansaif954@gmail.com**
-
-<h2 align="left">Technologies that I know : </h2>
+<h2 align="left">🛠️ Tech Stack:</h2>
 
 <h3>Languages:</h3>
 <p align="center">
@@ -109,7 +109,7 @@
 
 </p>
 
-<h3 align="left">Authentication:</h3>
+<h3 align="left">Authentication & Security:</h3>
 <p align="center">
 
 <img width="225" style="padding: 0px 10px" src="assets/firebase.png">
@@ -129,6 +129,16 @@
 <img width="225" src="assets/illustrator.png">
   
 </p>
+
+
+<h3>🌱 Currently Learning</h3>
+I'm continuously expanding my knowledge and currently focusing on:
+Advanced React & Next.js
+Full-stack web development
+Modern frontend architecture
+Backend & API development
+Interactive web experiences
+Performance and clean development practices
 
 <h3>Others Information:</h3>
 <p align="center">
