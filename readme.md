@@ -1,8 +1,10 @@
 ![banner](banner.gif)
 
 <h1 align="center">Hi, I'm Saifur Rahman 👋</h1>
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
-<h3 align="center">Building ideas into digital experiences.</h3>
+
+<h2 align="center">A passionate web developer from Bangladesh</h2>
+
+<h2 align="center">Building ideas into digital experiences.</h2>
 
 <p align="center" style="font-size: 18px; font-weight: 600;">I'm a web developer passionate about creating modern, responsive, and interactive web experiences. I enjoy combining clean interfaces, smooth animations, solid functionality, and thoughtful user experiences to bring ideas to life.</p>
 
@@ -16,7 +18,7 @@
 - 🎯 Currently looking for opportunities to grow, contribute, and gain real-world experience
 
 
-<h2 align="left">🛠️ Tech Stack:</h2>
+<h3 align="left">🛠️ Tech Stack:</h3>
 
 <h3>Languages:</h3>
 <p align="center">
@@ -133,14 +135,23 @@
 
 <h3>🌱 Currently Learning</h3>
 I'm continuously expanding my knowledge and currently focusing on:
-Advanced React & Next.js
-Full-stack web development
-Modern frontend architecture
-Backend & API development
-Interactive web experiences
-Performance and clean development practices
+- Advanced React & Next.js
+- Full-stack web development
+- Modern frontend architecture
+- Backend & API development
+- Interactive web experiences
+- Performance and clean development practices
 
-<h3>Others Information:</h3>
+<h3>🚀 What I Like Building?</h3>
+<b>I enjoy creating:<b>
+- 🌐 Modern websites and web applications
+- ✨ Interactive and animated interfaces
+- 📱 Responsive experiences
+- 🔌 Full-stack applications
+- 🎨 Creative frontend experiences
+- 🧩 Practical solutions to real-world problems
+
+<h3>📊 GitHub Stats:</h3>
 <p align="center">
   <img width="395px" src="https://github-stats-extended.vercel.app/api?username=manoffocus117&show_icons=true" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manoffocus117&layout=compact" />
