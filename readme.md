@@ -90,13 +90,26 @@
 - 🎨 Creative frontend experiences
 - 🧩 Practical solutions to real-world problems
 
+<h3>📂 Featured Projects</h3>
+
+**Here are some projects I'm working on:** 
+
+<br>
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Client&show_icons=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Server&show_icons=true" />
+</p>
+<br>
+
+**🚧 More projects are continuously being built and added.**
+
 <h3>📊 GitHub Stats:</h3>
 <p align="center">
   <img width="395px" src="https://github-stats-extended.vercel.app/api?username=manoffocus117&show_icons=true" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manoffocus117&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manoffocus117" />
+  <img width="395px" src="https://streak-stats.demolab.com?user=manoffocus117" />
 </p>
 
 
