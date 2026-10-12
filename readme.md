@@ -135,15 +135,15 @@
 
 <h3>🌱 Currently Learning</h3>
 I'm continuously expanding my knowledge and currently focusing on:
-- Advanced React & Next.js
-- Full-stack web development
-- Modern frontend architecture
-- Backend & API development
-- Interactive web experiences
-- Performance and clean development practices
+- **Advanced React & Next.js**
+- **Full-stack web development**
+- **Modern frontend architecture**
+- **Backend & API development**
+- **Interactive web experiences**
+- **Performance and clean development practices**
 
-<h3>🚀 What I Like Building?</h3>
-<b>I enjoy creating:<b>
+<h3>🚀 What I Like Building</h3>
+**I enjoy creating:**
 - 🌐 Modern websites and web applications
 - ✨ Interactive and animated interfaces
 - 📱 Responsive experiences
@@ -157,23 +157,13 @@ I'm continuously expanding my knowledge and currently focusing on:
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manoffocus117&layout=compact" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manoffocus117" />
-</p>
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>🤝 Let's Connect</h3>
+I'm always interested in connecting with other developers, collaborating on interesting projects, and learning from new experiences.
 
-<a href="https://linkedin.com/in/manoffocus117" target="blank">
-  <img align="center" src="assets/linkedin.png" alt="manoffocus117" height="50" width="50" />
-</a>
+- 🌐 Portfolio: saifurrahman-portfolio.netlify.app
+- 💼 LinkedIn: linkedin.com/in/manoffocus117/
+- 📧 Email: connectedwithsaif@gmail.com
+- 🐙 GitHub: manoffocus117
 
-<a href="https://x.com/manoffocus117" target="blank">
-<img align="center" src="assets/twitter.png" alt="manoffocus117" height="50" width="50" />
-</a>
-
-<a href="https://facebook.com/manoffocus117" target="blank">
-<img align="center" src="assets/facebook.png" alt="manoffocus117" height="50" width="50"/>
-</a>
-
-</p>
+**💭 A little reminder**
+**Always learning. Always building.**
