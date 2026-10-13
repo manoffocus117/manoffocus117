@@ -96,6 +96,8 @@
 
 <br>
 <p align="center">
+ <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Harvest-Table-Client&show_icons=true" />
+ <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Harvest-Table-Server&show_icons=true" />
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Client&show_icons=true" />
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Server&show_icons=true" />
 </p>
