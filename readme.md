@@ -39,16 +39,6 @@
 <img width="150" src="assets/react.png">
 
 <img width="150" src="assets/next-js.png">
-<img width="150" style="padding: 0px 20px" src="assets/material-ui.png">
-<img width="150" src="assets/shadcn.png">
-
-<img width="150" src="assets/swiper-js.png">
-
-<!-- <img width="225" src="assets/gsap.png"> -->
-<!-- <img width="225" style="padding: 0px 20px" src="assets/motion.png"> -->
-<!-- <img width="225" src="assets/lenis.png"> -->
-
-<!-- <img width="225" style="padding: 0px 10px" src="assets/locomotive.png"> -->
 
   <img width="150" style="padding: 0px 10px" src="assets/node-js.png">
 
@@ -58,10 +48,6 @@
 
   <img width="150" style="padding: 0px 10px" src="assets/mongodb.png">
 
-
-<img width="150" style="padding: 0px 10px" src="assets/git.png">
-
-<img width="150" style="padding: 0px 10px" src="assets/github.png">
 
 <img width="150" style="padding: 0px 10px" src="assets/firebase.png">
 
@@ -118,7 +104,7 @@
 <h3>🤝 Let's Connect</h3>
 I'm always interested in connecting with other developers, collaborating on interesting projects, and learning from new experiences.
 
-- 🌐 Portfolio: https://saifurrahman-portfolio.netlify.app
+- 🌐 Portfolio: https://mdsaifurrahman-portfolio.netlify.app
 - 💼 LinkedIn: https://linkedin.com/in/manoffocus117
 - 📧 Email: connectedwithsaif@gmail.com
 - 🐙 GitHub: @manoffocus117
