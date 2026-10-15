@@ -24,9 +24,9 @@
 
   <img width="150" src="assets/javascript.png">
 
-  <!-- <img width="225" style="padding: 0px 20px" src="assets/typescript.png"> -->
+  <!-- <img width="225" src="assets/typescript.png"> -->
 
-  <img width="150" style="padding: 0px 20px" src="assets/html.png">
+  <img width="150" src="assets/html.png">
 
   <img width="150" src="assets/css.png">
 
@@ -34,26 +34,26 @@
 
 <img width="150" src="assets/bootstrap.png">
 
-<img width="150" style="padding: 0px 20px" src="assets/tailwindcss.png">
+<img width="150" src="assets/tailwindcss.png">
 
 <img width="150" src="assets/react.png">
 
 <img width="150" src="assets/next-js.png">
 
-  <img width="150" style="padding: 0px 10px" src="assets/node-js.png">
+  <img width="150" src="assets/node-js.png">
 
-  <img width="150" style="padding: 0px 10px" src="assets/express.png"> 
+  <img width="150" src="assets/express.png"> 
 
-  <img width="150" style="padding: 0px 10px" src="assets/mysql.png">
+  <img width="150" src="assets/mysql.png">
 
-  <img width="150" style="padding: 0px 10px" src="assets/mongodb.png">
+  <img width="150" src="assets/mongodb.png">
 
 
-<img width="150" style="padding: 0px 10px" src="assets/firebase.png">
+<img width="150" src="assets/firebase.png">
 
-<img width="150" style="padding: 0px 10px" src="assets/next-auth.png">
+<img width="150" src="assets/next-auth.png">
 
-<img width="150" style="padding: 0px 10px" src="assets/jwt.png">
+<img width="150" src="assets/jwt.png">
 </p>
 
 <h3>🌱 Currently Learning</h3>
@@ -83,8 +83,11 @@
 <br>
 <p align="center">
  <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Harvest-Table-Client&show_icons=true" />
+  
  <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Harvest-Table-Server&show_icons=true" />
+ 
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Client&show_icons=true" />
+
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Server&show_icons=true" />
 </p>
 <br>
