@@ -21,32 +21,21 @@
 <h3 align="left">🛠️ Tech Stack:</h3>
 
 <p align="center">
+<img width="150" src="assets/javascript.png">
 
-  <img width="150" src="assets/javascript.png">
-
-  <!-- <img width="225" src="assets/typescript.png"> -->
-
-  <img width="150" src="assets/html.png">
-
-  <img width="150" src="assets/css.png">
-
-<img width="150" src="assets/sass.png">
-
-<img width="150" src="assets/bootstrap.png">
-
-<img width="150" src="assets/tailwindcss.png">
+<!-- <img width="225" src="assets/typescript.png"> -->
 
 <img width="150" src="assets/react.png">
 
 <img width="150" src="assets/next-js.png">
 
-  <img width="150" src="assets/node-js.png">
+<img width="150" src="assets/node-js.png">
 
-  <img width="150" src="assets/express.png"> 
+<img width="150" src="assets/express.png"> 
 
-  <img width="150" src="assets/mysql.png">
+<img width="150" src="assets/mysql.png">
 
-  <img width="150" src="assets/mongodb.png">
+<img width="150" src="assets/mongodb.png">
 
 
 <img width="150" src="assets/firebase.png">
@@ -80,17 +69,15 @@
 
 **Here are some projects I'm working on:** 
 
-<br>
 <p align="center">
  <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Harvest-Table-Client&show_icons=true" />
   
- <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Harvest-Table-Server&show_icons=true" />
- 
+ <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Harvest-Table-Server&show_icons=true" style="height: 150px;" />
+
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Client&show_icons=true" />
 
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Server&show_icons=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Server&show_icons=true" style="height: 150px;" />
 </p>
-<br>
 
 **🚧 More projects are continuously being built and added.**
 
