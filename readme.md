@@ -65,22 +65,6 @@
 - 🎨 Creative frontend experiences
 - 🧩 Practical solutions to real-world problems
 
-<h3>📂 Featured Projects</h3>
-
-**Here are some projects I'm working on:** 
-
-<p align="center">
- <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Harvest-Table-Client&show_icons=true" />
-  
- <img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Harvest-Table-Server&show_icons=true" style="height: 150px;" />
-
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Client&show_icons=true" />
-
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=manoffocus117&repo=Smart-Deals-Server&show_icons=true" style="height: 150px;" />
-</p>
-
-**🚧 More projects are continuously being built and added.**
-
 <h3>📊 GitHub Stats:</h3>
 <p align="center">
   <img width="395px" src="https://github-stats-extended.vercel.app/api?username=manoffocus117&show_icons=true" />
