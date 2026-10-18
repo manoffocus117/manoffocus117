@@ -65,6 +65,30 @@
 - 🎨 Creative frontend experiences
 - 🧩 Practical solutions to real-world problems
 
+<h3>📂 Featured Projects</h3>
+
+**Here are some projects I'm working on:**
+
+<table align="center" width="100%">
+  <tr>
+    <td>Project</td>
+    <td>Description</td>
+    <td>Technologies</td>
+  </tr>
+  <tr>
+    <td>Harvest Table</td>
+    <td>Modern restaurant web application</td>
+    <td>React · Node.js · Express · MongoDB</td>
+  </tr>
+  <tr>
+    <td>Smart Deals</td>
+    <td>Full-stack marketplace application</td>
+    <td>React · Node.js · Express · MongoDB</td>
+  </tr>
+</table>
+
+**🚧 More projects are continuously being built and added.**
+
 <h3>📊 GitHub Stats:</h3>
 <p align="center">
   <img width="395px" src="https://github-stats-extended.vercel.app/api?username=manoffocus117&show_icons=true" />
