@@ -74,16 +74,19 @@
     <td>Project</td>
     <td>Description</td>
     <td>Technologies</td>
+    <td>Project Type</td>
   </tr>
   <tr>
     <td>Harvest Table</td>
     <td>Modern restaurant web application</td>
     <td>React · Node.js · Express · MongoDB</td>
+    <td>Demo</td>
   </tr>
   <tr>
     <td>Smart Deals</td>
     <td>Full-stack marketplace application</td>
     <td>React · Node.js · Express · MongoDB</td>
+    <td>Demo</td>
   </tr>
 </table>
 
