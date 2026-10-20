@@ -75,18 +75,25 @@
     <td>Description</td>
     <td>Technologies</td>
     <td>Project Type</td>
+    <td>Preview</td>
   </tr>
   <tr>
     <td>Harvest Table</td>
     <td>Modern restaurant web application</td>
     <td>React · Node.js · Express · MongoDB</td>
     <td>Demo</td>
+    <td>
+      <a href="https://harvesttable.vercel.app/" target="_blank">Live</a>
+    </td>
   </tr>
   <tr>
     <td>Smart Deals</td>
     <td>Full-stack marketplace application</td>
     <td>React · Node.js · Express · MongoDB</td>
     <td>Demo</td>
+    <td>
+      <a href="https://the-smart-deals.vercel.app/" target="_blank">Live</a>
+    </td>
   </tr>
 </table>
 
