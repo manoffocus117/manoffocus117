@@ -80,7 +80,7 @@
   <tr>
     <td>Harvest Table</td>
     <td>Modern restaurant web application</td>
-    <td>React · Node.js · Express · MongoDB</td>
+    <td>React • Node.js • Express • MongoDB</td>
     <td>Demo</td>
     <td>
       <a href="https://harvesttable.vercel.app/" target="_blank">Live</a>
@@ -89,10 +89,19 @@
   <tr>
     <td>Smart Deals</td>
     <td>Full-stack marketplace application</td>
-    <td>React · Node.js · Express · MongoDB</td>
+    <td>React • Node.js • Express • MongoDB</td>
     <td>Demo</td>
     <td>
       <a href="https://the-smart-deals.vercel.app/" target="_blank">Live</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Portfolio</td>
+    <td>Personal portfolio website</td>
+    <td>HTML • CSS • Bootstrap 5 • Kursor</td>
+    <td>Real</td>
+    <td>
+      <a href="https://mdsaifurrahman-portfolio.netlify.app/" target="_blank">Live</a>
     </td>
   </tr>
 </table>
