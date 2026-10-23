@@ -17,7 +17,6 @@
 - 🛠️ Love experimenting with new technologies and creative ideas
 - 🎯 Currently looking for opportunities to grow, contribute, and gain real-world experience
 
-
 <h3 align="left">🛠️ Tech Stack:</h3>
 
 <p align="center">
@@ -31,12 +30,11 @@
 
 <img width="150" src="assets/node-js.png">
 
-<img width="150" src="assets/express.png"> 
+<img width="150" src="assets/express.png">
 
 <img width="150" src="assets/mysql.png">
 
 <img width="150" src="assets/mongodb.png">
-
 
 <img width="150" src="assets/firebase.png">
 
@@ -48,6 +46,7 @@
 <h3>🌱 Currently Learning</h3>
 
 **I'm continuously expanding my knowledge and currently focusing on:**
+
 - Advanced React & Next.js
 - Full-stack web development
 - Modern frontend architecture
@@ -58,6 +57,7 @@
 <h3>🚀 What I Like Building</h3>
 
 **I enjoy creating:**
+
 - 🌐 Modern websites and web applications
 - ✨ Interactive and animated interfaces
 - 📱 Responsive experiences
@@ -73,7 +73,7 @@
   <tr>
     <td>Project</td>
     <td>Description</td>
-    <td>Technologies</td>
+    <td>Behind the Build</td>
     <td>Project Type</td>
     <td>Preview</td>
   </tr>
@@ -116,7 +116,6 @@
 <p align="center">
   <img width="395px" src="https://streak-stats.demolab.com?user=manoffocus117" />
 </p>
-
 
 <h3>🤝 Let's Connect</h3>
 I'm always interested in connecting with other developers, collaborating on interesting projects, and learning from new experiences.
